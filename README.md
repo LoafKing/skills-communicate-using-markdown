@@ -1,4 +1,4 @@
-<header>
+# This is an `<instruction>` header, which is the largest
 
 <!--
   <<< Author notes: Course header >>>
@@ -64,6 +64,8 @@ _Welcome to "Communicate using Markdown"! :wave:_
 1. At the bottom of the page, type a short, meaningful commit message that describes the change you made to the file.
 1. Click **Commit changes**.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
+
+The change I made: replacing the old header with a new header!
 
 <footer>
 
